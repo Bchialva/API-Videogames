@@ -1,0 +1,46 @@
+.create{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    
+}
+.content {
+    padding: 2rem;
+    border-radius: 30px;
+    
+    box-shadow: 15px 15px 30px #c255bcbb, -15px -15px 30px #d83acbbb;
+    width: fit-content;
+    
+}
+
+.titulo{
+    font-size: 3rem;
+    margin-top: 2rem;
+    margin-bottom: 0px;
+    color: #b5179e;
+}
+ .fondo{
+   height: 1100px;
+   background-image: url('https://img.freepik.com/free-photo/cool-geometric-triangular-figure-neon-laser-light-great-backgrounds_181624-11068.jpg?w=996&t=st=1673898875~exp=1673899475~hmac=6fc837fb02c6bda581257907be365e37e5e7ceb6dad06029bac0402b4094cd77');
+    background-size:cover ;
+  }
+
+  .text{
+    justify-content:flex-start;
+  }
+
+.boton{
+    background-color: rgba(163, 44, 174, 0.698);
+    border-color: rgba(169, 56, 221, 0.254);
+    border-radius: 10%;
+    margin-left: 6px;
+    margin-right: 6px;
+    color: rgba(0, 0, 0, 0.822);
+    font-size: large;
+  }
+
+  .boton:hover {
+  
+    background: #ddeedf;
+  
+}

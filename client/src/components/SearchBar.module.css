@@ -1,0 +1,27 @@
+.boton{
+    background-color: rgba(247, 243, 243, 0.698);
+    border-color: rgba(175, 31, 241, 0.254);
+    border-radius: 0%;
+    margin-left: 6px;
+    margin-right: 6px;
+    color: rgba(164, 61, 212, 0.822);
+    font-size: large;
+    font-family:sans-serif;
+    font-style:unset
+}
+  
+
+.boton2{
+    background-color: rgba(250, 232, 249, 0.698);
+    border-color: rgba(222, 185, 239, 0.254);
+    border-radius: 0%;
+    margin-left: 6px;
+    margin-right: 6px;
+    color: rgba(195, 26, 238, 0.822);
+    font-size: large;
+    font-family:sans-serif;
+    font-style:unset
+}
+.boton2:hover {
+    background: #ddeedf;
+  }

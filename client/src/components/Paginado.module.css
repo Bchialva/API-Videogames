@@ -1,0 +1,15 @@
+.boton{
+    background-color: rgba(250, 248, 250, 0.946);
+    border-color: rgba(182, 124, 209, 0.254);
+    border-color: rgba(175, 31, 241, 0.254);
+    border-radius: 30%;
+    margin-left: 6px;
+    margin-right: 6px;
+    font-size: large;
+    font-family:sans-serif;
+    font-style:unset
+}
+
+.boton:hover {
+    background: #f5abee;
+}
